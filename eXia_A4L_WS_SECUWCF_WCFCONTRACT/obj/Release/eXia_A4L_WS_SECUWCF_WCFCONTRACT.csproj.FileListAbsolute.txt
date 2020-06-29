@@ -1,0 +1,6 @@
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_WCFCONTRACT\bin\Release\eXia_A4L_WS_SECUWCF_WCFCONTRACT.dll
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_WCFCONTRACT\bin\Release\eXia_A4L_WS_SECUWCF_WCFCONTRACT.pdb
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_WCFCONTRACT\obj\Release\eXia_A4L_WS_SECUWCF_WCFCONTRACT.csprojAssemblyReference.cache
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_WCFCONTRACT\obj\Release\eXia_A4L_WS_SECUWCF_WCFCONTRACT.csproj.CoreCompileInputs.cache
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_WCFCONTRACT\obj\Release\eXia_A4L_WS_SECUWCF_WCFCONTRACT.dll
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_WCFCONTRACT\obj\Release\eXia_A4L_WS_SECUWCF_WCFCONTRACT.pdb

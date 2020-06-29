@@ -1,0 +1,12 @@
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\bin\Debug\eXia_A4L_WS_SECUWCF_SERVER.exe.config
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\bin\Debug\eXia_A4L_WS_SECUWCF_SERVER.exe
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\bin\Debug\eXia_A4L_WS_SECUWCF_SERVER.pdb
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\obj\Debug\eXia_A4L_WS_SECUWCF_SERVER.csprojAssemblyReference.cache
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\obj\Debug\eXia_A4L_WS_SECUWCF_SERVER.csproj.CoreCompileInputs.cache
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\obj\Debug\eXia_A4L_WS_SECUWCF_SERVER.exe
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\obj\Debug\eXia_A4L_WS_SECUWCF_SERVER.pdb
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\bin\Debug\eXia_A4L_WS_SECUWCF_MIDDLEWARE.dll
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\bin\Debug\eXia_A4L_WS_SECUWCF_WCFCONTRACT.dll
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\bin\Debug\eXia_A4L_WS_SECUWCF_MIDDLEWARE.pdb
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\bin\Debug\eXia_A4L_WS_SECUWCF_WCFCONTRACT.pdb
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_SERVER\obj\Debug\eXia_A4L_WS_SECUWCF_SERVER.csproj.CopyComplete

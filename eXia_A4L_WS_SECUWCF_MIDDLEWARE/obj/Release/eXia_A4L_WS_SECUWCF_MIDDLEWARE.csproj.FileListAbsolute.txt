@@ -1,0 +1,9 @@
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\bin\Release\eXia_A4L_WS_SECUWCF_MIDDLEWARE.dll
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\bin\Release\eXia_A4L_WS_SECUWCF_MIDDLEWARE.pdb
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\bin\Release\eXia_A4L_WS_SECUWCF_WCFCONTRACT.dll
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\bin\Release\eXia_A4L_WS_SECUWCF_WCFCONTRACT.pdb
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\obj\Release\eXia_A4L_WS_SECUWCF_MIDDLEWARE.csprojAssemblyReference.cache
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\obj\Release\eXia_A4L_WS_SECUWCF_MIDDLEWARE.csproj.CoreCompileInputs.cache
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\obj\Release\eXia_A4L_WS_SECUWCF_MIDDLEWARE.csproj.CopyComplete
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\obj\Release\eXia_A4L_WS_SECUWCF_MIDDLEWARE.dll
+E:\corbeilles\CorbeilleWCF\WCF2\WCF2\eXia_A4L_WS_SECUWCF_MIDDLEWARE\obj\Release\eXia_A4L_WS_SECUWCF_MIDDLEWARE.pdb
